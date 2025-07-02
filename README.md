@@ -1,5 +1,4 @@
 # Ecom
-# Ecom
 # 🛒 E-Commerce System (Python + MySQL)
 
 A console-based E-Commerce application built using Python and MySQL, demonstrating core software engineering concepts including OOP, database integration, exception handling, validation, and modular architecture.
